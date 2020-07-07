@@ -1,0 +1,26 @@
+body#tinymce {
+	font-family: "PT Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 19px;
+	color: #808080;
+	-webkit-font-smoothing: antialiased;
+	background-color: #f00;
+}
+h1, h2, h3, h4, h5, h6 {
+	text-rendering: optimizelegibility;
+	font-family: "PT Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 400;
+	line-height: 1;
+	margin: 0;
+}
+p {
+	font-size: 13px;
+	line-height: 17px;
+	margin: 0 0 1em 0;
+}
+img {
+	max-width:100%;
+	height:auto;
+	display:block;
+}
