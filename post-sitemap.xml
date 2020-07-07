@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//legacy.smartline.org.uk/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/100th-participant-signed-up/</loc>
+		<lastmod>2017-10-05T14:55:51+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2017/10/smartline-news.jpg</image:loc>
+			<image:title><![CDATA[smartline-news]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/cornish-residents-help-improve-health-wellbeing-within-communities/</loc>
+		<lastmod>2017-12-07T14:57:11+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2017/12/smartline-heartlands-04.jpg</image:loc>
+			<image:title><![CDATA[smartline heartlands 04]]></image:title>
+			<image:caption><![CDATA[Smartline representative demonstrating tablet functionality]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/linking-health-housing-wider-environment/</loc>
+		<lastmod>2017-12-07T16:19:51+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2017/12/Director-of-Public-Health-Annual-Report.png</image:loc>
+			<image:title><![CDATA[Director of Public Health Annual Report]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/peninsula-forum-environment-human-health-2018/</loc>
+		<lastmod>2018-02-06T16:42:57+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/02/penryn66.jpg</image:loc>
+			<image:title><![CDATA[penryn66]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/smartlinestory/</loc>
+		<lastmod>2018-03-27T10:14:03+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/supporting-your-innovation/</loc>
+		<lastmod>2018-06-07T14:16:57+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/04/supporting.jpg</image:loc>
+			<image:title><![CDATA[supporting]]></image:title>
+			<image:caption><![CDATA[Smartline feature in Business Cornwall Magazine]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/iot-world-series-smart-future-cities-conference/</loc>
+		<lastmod>2018-06-07T14:17:40+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/04/smart-future-1.jpg</image:loc>
+			<image:title><![CDATA[smart-future]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/healthy-investment-cornwall/</loc>
+		<lastmod>2018-06-07T14:18:07+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/04/growth.jpg</image:loc>
+			<image:title><![CDATA[growth]]></image:title>
+			<image:caption><![CDATA[Smartline and EPIC feature in Business Cornwall magazine]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/examining-home-ownership-and-health/</loc>
+		<lastmod>2018-06-08T10:10:09+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/06/Research-House.png</image:loc>
+			<image:title><![CDATA[Research-House]]></image:title>
+			<image:caption><![CDATA[Smartline Research Themes]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/smartline-pioneering-at-conference/</loc>
+		<lastmod>2018-06-08T10:59:30+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/06/Smart-Cities-.jpg</image:loc>
+			<image:title><![CDATA[Smart Cities]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/digitally-connecting-communities/</loc>
+		<lastmod>2018-06-08T17:20:16+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/06/Tablet-Event-Photo.jpg</image:loc>
+			<image:title><![CDATA[Tablet Event Photo]]></image:title>
+			<image:caption><![CDATA[Smartline Tablet Event in Heartlands]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/funding-available-to-combat-rural-isolation/</loc>
+		<lastmod>2018-07-24T14:35:14+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/07/nature-grass-girl-sun-field-meadow-461740-pxhere.com_.jpg</image:loc>
+			<image:title><![CDATA[nature-grass-girl-sun-field-meadow-461740-pxhere.com]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/community-newsletter/</loc>
+		<lastmod>2018-08-07T11:04:22+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/07/Community-News-2.png</image:loc>
+			<image:title><![CDATA[Community News 2]]></image:title>
+			<image:caption><![CDATA[Smartline Community Newsletter]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/have-you-thought-about-volunteering/</loc>
+		<lastmod>2018-08-09T13:07:38+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/08/african-african-american-afro-american-arms-around-asian-1438955-pxhere.com_.jpg</image:loc>
+			<image:title><![CDATA[Group of happy and diverse volunteers]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/transport-support-is-available/</loc>
+		<lastmod>2018-08-13T09:12:24+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/08/car-wheel-driving-direction-vehicle-steering-wheel-1338254-pxhere.com_.jpg</image:loc>
+			<image:title><![CDATA[car-wheel-driving-direction-vehicle-steering-wheel-1338254-pxhere.com]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/community-camps/</loc>
+		<lastmod>2018-09-26T10:32:23+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/09/Eden.png</image:loc>
+			<image:title><![CDATA[Eden]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/september-community-newsletter/</loc>
+		<lastmod>2018-10-23T13:24:23+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/10/Newsletter-Sept-Edition-Short-Cover-1.jpg</image:loc>
+			<image:title><![CDATA[Newsletter - Sept Edition - Short Cover]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/what-can-technology-do-for-you/</loc>
+		<lastmod>2018-10-23T13:38:22+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/10/Robot.jpg</image:loc>
+			<image:title><![CDATA[Robot]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/new-money-management-app-needs-you/</loc>
+		<lastmod>2019-04-24T11:05:11+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/03/Duesday-2.jpg</image:loc>
+			<image:title><![CDATA[Duesday 2]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/cornwall-dadpad-app-is-available-now/</loc>
+		<lastmod>2019-04-24T11:08:01+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/03/Smartline-case-study-DadPad-2.jpg</image:loc>
+			<image:title><![CDATA[Inspire Cornwall - the DadPad-2]]></image:title>
+			<image:caption><![CDATA[Inspire Cornwall - the DadPad]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/future-community-activities/</loc>
+		<lastmod>2019-04-24T11:09:03+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/03/Community-Picture-Collage.png</image:loc>
+			<image:title><![CDATA[Community Picture Collage]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/new-it-sessions-available-for-smartline-participants/</loc>
+		<lastmod>2019-04-24T11:09:37+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/03/IT_151118_sb20.jpg</image:loc>
+			<image:title><![CDATA[Smartline IT workshop at Wesley Centre, Camborne © Exposure Photo Agency Ltd]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/fund-to-encourage-the-spread-and-adoption-of-innovation/</loc>
+		<lastmod>2019-04-24T11:10:16+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/02/SWAHSN-For-Web.jpg</image:loc>
+			<image:title><![CDATA[SWAHSN For Web]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/ground-breaking-data-launched/</loc>
+		<lastmod>2019-04-24T11:11:15+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/01/Data_160119_eww35.jpg</image:loc>
+			<image:title><![CDATA[Data_160119_eww35]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/natural-alliance-to-improve-health-and-wellbeing/</loc>
+		<lastmod>2019-04-24T11:13:39+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/12/Green-Blue06.jpg</image:loc>
+			<image:title><![CDATA[Green&amp;Blue bee brick]]></image:title>
+			<image:caption><![CDATA[Smartline project Green&amp;Blue bee brick makers at Perranporth]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/12/Green-Blue11.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/partnership-project-of-the-year/</loc>
+		<lastmod>2019-04-24T11:14:50+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/12/Smartline_121018_eww29.jpg</image:loc>
+			<image:title><![CDATA[Smartline - Trelawney Court and the Public Rooms. Redruth.]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/smartline-to-feature-at-housing-technology-2019/</loc>
+		<lastmod>2019-04-24T11:15:48+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/11/housingtechnology2019_banner_smartline.jpg</image:loc>
+			<image:title><![CDATA[housingtechnology2019_banner_smartline]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/keep-warm-and-well-this-winter/</loc>
+		<lastmod>2019-04-24T11:17:06+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/11/Smartline_121018_eww38.jpg</image:loc>
+			<image:title><![CDATA[Smartline - Trelawney Court and the Public Rooms. Redruth.]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/trelawney-court-armchair-exercise/</loc>
+		<lastmod>2019-04-24T11:17:44+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/10/Armchair-Exercise-Class-5.png</image:loc>
+			<image:title><![CDATA[Armchair Exercise Class]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/keep-fit-keep-active-and-make-new-friends/</loc>
+		<lastmod>2019-04-24T11:18:04+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/10/Smartline-Wesley-Classes-Short.jpg</image:loc>
+			<image:title><![CDATA[Smartline Wesley Classes - Short]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/it-classes-in-november/</loc>
+		<lastmod>2019-04-24T11:18:24+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/10/Smartline-IT-Skills-Classes-Poster-short.jpg</image:loc>
+			<image:title><![CDATA[Smartline IT Skills Classes Poster - short]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/event/smartline-data-what-is-it-and-how-is-it-collected/</loc>
+		<lastmod>2019-04-24T11:19:24+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/01/Data-Workshop-Banner-6.jpg</image:loc>
+			<image:title><![CDATA[Exposure Photo Agency 07725 875743]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/event/big-data/</loc>
+		<lastmod>2019-04-24T11:19:34+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/01/Data_160119_eww50.jpg</image:loc>
+			<image:title><![CDATA[Data_160119_eww50]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/event/smartline-festive-community-event/</loc>
+		<lastmod>2019-04-24T11:19:45+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/12/Smartline-Xmas-05-12-18_ab_003.jpg</image:loc>
+			<image:title><![CDATA[Exposure Photo Agency 07725 875743]]></image:title>
+			<image:caption><![CDATA[Community Event]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/event/data-launch-improving-services-to-better-serve-communities/</loc>
+		<lastmod>2019-04-24T11:19:53+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/11/Web-Version-of-Data-Launch.jpg</image:loc>
+			<image:title><![CDATA[Web Version of Data Launch]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/event/participant-christmas-event/</loc>
+		<lastmod>2019-04-24T11:20:01+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2018/11/Participant-Invite-Web-Size-1.jpg</image:loc>
+			<image:title><![CDATA[Participant Invite - Web Size]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/event/peninsula-forum-2019/</loc>
+		<lastmod>2019-04-30T15:51:00+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/04/PF-banner-with-lock-up-e1556637619826.png</image:loc>
+			<image:title><![CDATA[Peninsula Forum]]></image:title>
+			<image:caption><![CDATA[Peninsula forum]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/event/evaluation-workshop/</loc>
+		<lastmod>2019-04-30T15:51:11+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/04/original.20190408-090719-e1556108427135.png</image:loc>
+			<image:title><![CDATA[Smartline Business Workshop]]></image:title>
+			<image:caption><![CDATA[Smartline Business Workshop]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/event/learn-computer-aided-design-and-manufacturing/</loc>
+		<lastmod>2019-04-30T15:51:16+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/04/Charlie-the-printer-CAD-course.jpg</image:loc>
+			<image:title><![CDATA[Charlie the printer CAD course]]></image:title>
+			<image:caption><![CDATA[Charlie the printer CAD course]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/event/photography-classes-for-smartline-participants/</loc>
+		<lastmod>2019-04-30T15:51:22+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/03/mobile-hand-beach-sea-coast-sand-893382-pxhere.com_.jpg</image:loc>
+			<image:title><![CDATA[mobile-hand-beach-sea-coast-sand-893382-pxhere.com]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/event/community-photography-exhibition/</loc>
+		<lastmod>2019-06-06T12:06:15+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/06/Photography-poster-Mitber-e1559822748999.jpg</image:loc>
+			<image:title><![CDATA[Photography poster Mitber]]></image:title>
+			<image:caption><![CDATA[Photography poster Mitber]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/photography-classes-bring-wellbeing-benefits/</loc>
+		<lastmod>2019-06-25T09:53:49+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/06/Heartlands-photo-exhibition.jpg</image:loc>
+			<image:title><![CDATA[Heartlands photo exhibition]]></image:title>
+			<image:caption><![CDATA[Heartlands photo exhibition]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/data-free-access-helps-businesses-grow/</loc>
+		<lastmod>2019-07-02T09:05:40+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/07/Housing-Tech-2019-web.jpg</image:loc>
+			<image:title><![CDATA[Housing Tech 2019]]></image:title>
+			<image:caption><![CDATA[Ground-breaking data produced by the University of Exeter is being used by a growing number of Cornish businesses to develop exciting new ways of supporting people to live healthier and happier lives. The University’s Smartline project, which is an EU-funded research and innovation project exploring the relationship between technology and the way people live in their homes and communities, is sharing data from homes in the Camborne, Illogan, pool and Redruth areas. Smartline, in partnership with Coastline Housing, Cornwall Council and Volunteer Cornwall, has published data on air quality, moisture, ventilation and heating use gathered from environmental sensors placed in 300 homes in Cornwall in March 2017. This data is already being used to explore the possible links between asthma and mould. Smartline researchers are also monitoring indoor as well as outdoor air quality, with sensors checking the impact of particles created by heating, cooking and smoking and nearby traffic, as well as those from new furnishings, cleaning products, paints and things like computer printers. This unique dataset is now playing a leading role in supporting the development of new e-health and wellbeing products and services. “Smartline is one of the largest monitoring exercises of its type, certainly in the UK context.” said Dr Tim Taylor, Senior Lecturer in the University of Exeter Medical School and Smartline Principal Investigator. “The data produced by our team of public health professionals, economists, geographers, mathematicians, and sociologists is now being used by businesses and organisations to design better systems for managing homes in the future, and to invent new products and services to improve people’s day to day lives.” One of the companies using this data is Hi9, a Cornish based business which specialises in audio digital assistants and chat-bots. “We are currently developing a new digital app and chat-bot which will enable people with long term respiratory conditions such as asthma or chronic obstructive pulmonary disease (COPD) to monitor their conditions themselves from their own homes.” explained Wo King from Hi9. “Our Breathe Better Bot is designed to be a tool for self-care, self-empowerment, and over time, to really uncover the individual’s own profile risk before things happen. This predictive sort of healthcare should enable individuals to self-service their care needs where possible and so reduce the amount of time spent with a primary caregiver. “We are working with Smartline researchers to use the data they have gathered in relation to pollution levels to produce our bot which will not only provide alerts via a smart speaker to people suffering from long-term lung conditions, but will also allow users to connect to a voice-controlled personal assistant for daily conversations.” “Innovation in technology is bringing real change to our world.” said Tim Taylor. “From apps supporting patients with cancer, diabetes, epilepsy and lung conditions to manage their health at home, to a robotic baby seal helping to calm people with dementia, innovative e-health projects are transforming healthcare and having a dramatic impact on the quality of people’s lives. “We are very proud that Smartline has already helped a number of businesses to develop exciting new products and services, and look forward to working with other companies interested in using our unique data.” The dataset is freely available to anyone who would like to use it. In order to get access, you need to register here: https://www.smartline.org.uk/data/ The Smartline team can assist you in determining what data you need and in what format so you can quickly get hold of what you need and understand how to interpret it.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/greenspace-project-receives-new-planters/</loc>
+		<lastmod>2019-07-30T13:47:37+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/07/Smartline-Garden2-12-07-19_ch_2.jpg</image:loc>
+			<image:title><![CDATA[Greenspace project planters]]></image:title>
+			<image:caption><![CDATA[Greenspace project planters]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/cash-grants-for-new-community-garden-in-camborne/</loc>
+		<lastmod>2019-07-30T13:53:13+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/07/Smartline-Greenspace-Launch-June-2019.jpg</image:loc>
+			<image:title><![CDATA[Exposure Photo Agency 07725 875743]]></image:title>
+			<image:caption><![CDATA[Greenspace project, Camborne]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/miners-court-residents-celebrate-completion-of-people-and-places/</loc>
+		<lastmod>2019-08-05T14:43:23+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/08/TeaParty_Miners_Court.jpg</image:loc>
+			<image:title><![CDATA[Smartline Tea Party at Miners Court, Reduth ©Exposure Photo Agency Ltd]]></image:title>
+			<image:caption><![CDATA[Smartline Tea Party at Miners Court, Reduth]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/event/smart-homes-and-communities-local-and-global-lessons-for-wellbeing/</loc>
+		<lastmod>2019-08-27T09:27:06+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/01/Data_160119_eww35.jpg</image:loc>
+			<image:title><![CDATA[Data_160119_eww35]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/smartline-conference-a-resounding-success/</loc>
+		<lastmod>2020-02-04T15:49:21+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/11/Smartline-Alverton-08-11-19_ab_140.jpg</image:loc>
+			<image:title><![CDATA[www.exposurephotoagency.com | 07725 875743]]></image:title>
+			<image:caption><![CDATA[Smartline Conference, held at The Alverton Hotel, Truro, Cornwall on Friday, 8th November 2019]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/11/Smartline-Alverton-08-11-19_ab_140.jpg</image:loc>
+			<image:caption><![CDATA[Smartline Conference, held at The Alverton Hotel, Truro, Cornwall on Friday, 8th November 2019]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/smartline-celebration-event-was-a-joyous-occasion/</loc>
+		<lastmod>2020-02-04T15:49:45+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/11/Participant-with-ball.jpg</image:loc>
+			<image:title><![CDATA[Participant with ball]]></image:title>
+			<image:caption><![CDATA[Participant with ball]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/11/Coastline-singers.jpg</image:loc>
+			<image:caption><![CDATA[Coastline singers]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/11/Participants-games.jpg</image:loc>
+			<image:caption><![CDATA[Participants games]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/11/Participant-with-tablet.jpg</image:loc>
+			<image:caption><![CDATA[Participant with tablet]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/11/Participant-with-Guess-Who.jpg</image:loc>
+			<image:caption><![CDATA[Participant with Guess Who]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/11/Participant-with-CNC.jpg</image:loc>
+			<image:caption><![CDATA[Participant with CNC]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/11/Participant-with-ball.jpg</image:loc>
+			<image:caption><![CDATA[Participant with ball]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/11/Participant-VR.jpg</image:loc>
+			<image:caption><![CDATA[Participant VR]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/event/help-create-a-sound-map-for-the-sonic-kayak/</loc>
+		<lastmod>2020-02-04T15:51:50+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/08/Exposure_Smartline_2019_26.jpg</image:loc>
+			<image:title><![CDATA[Exposure Photo Agency 07725 875743]]></image:title>
+			<image:caption><![CDATA[Sonic kayak braille map]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/smartline-wins-4-million-extension-from-erdf/</loc>
+		<lastmod>2020-02-11T09:19:26+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2019/11/Participant-with-tablet.jpg</image:loc>
+			<image:title><![CDATA[Participant with tablet]]></image:title>
+			<image:caption><![CDATA[Participant with tablet]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/event/smartline-at-cornwall-business-show-2020/</loc>
+		<lastmod>2020-02-18T12:00:47+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2020/02/CBS-Exhibitor-Graphic-2.jpg</image:loc>
+			<image:title><![CDATA[CBS Exhibitor Graphic 2]]></image:title>
+			<image:caption><![CDATA[Cornwall Business show 2020]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://legacy.smartline.org.uk/news/smartline-project-to-combat-isolation-during-lockdown/</loc>
+		<lastmod>2020-05-07T12:39:41+00:00</lastmod>
+		<image:image>
+			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2020/05/isolation-hero2.jpg</image:loc>
+			<image:title><![CDATA[isolation]]></image:title>
+			<image:caption><![CDATA[womans hand on glass looking out, lonely]]></image:caption>
+		</image:image>
+	</url>
+</urlset>
+<!-- XML Sitemap generated by Yoast SEO -->
