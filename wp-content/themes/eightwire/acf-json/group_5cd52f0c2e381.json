@@ -1,0 +1,59 @@
+{
+    "key": "group_5cd52f0c2e381",
+    "title": "Case Study Business Support",
+    "fields": [
+        {
+            "key": "field_5cd52f1406467",
+            "label": "Business Support Options",
+            "name": "business_support_options",
+            "type": "select",
+            "instructions": "Hold Cmd (Mac)\/ Ctrl (Windows) to select multiple options",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "option_1": "Option 1",
+                "option_2": "Option 2",
+                "option_3": "Option 3",
+                "option_4": "Option 4",
+                "option_5": "Option 5"
+            },
+            "default_value": [],
+            "allow_null": 0,
+            "multiple": 1,
+            "ui": 0,
+            "return_format": "value",
+            "ajax": 0,
+            "placeholder": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "case-study"
+            }
+        ],
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "enterprise"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1557475771
+}
