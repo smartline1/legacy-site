@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//legacy.smartline.org.uk/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//smartline1.github.io/legacy-site/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://legacy.smartline.org.uk/category/event/</loc>
+		<loc>https://smartline1.github.io/legacy-site/category/event/</loc>
 		<lastmod>2020-02-18T12:00:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://legacy.smartline.org.uk/category/news/</loc>
+		<loc>https://smartline1.github.io/legacy-site/category/news/</loc>
 		<lastmod>2020-05-07T12:39:41+00:00</lastmod>
 	</url>
 </urlset>
