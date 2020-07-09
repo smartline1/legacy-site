@@ -1,89 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//legacy.smartline.org.uk/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//smartline1.github.io/legacy-site/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://legacy.smartline.org.uk/</loc>
+		<loc>https://smartline1.github.io/legacy-site/</loc>
 		<lastmod>2020-06-10T14:07:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://legacy.smartline.org.uk/sitemap/</loc>
+		<loc>https://smartline1.github.io/legacy-site/sitemap/</loc>
 		<lastmod>2017-08-22T09:40:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://legacy.smartline.org.uk/copyright-disclaimer/</loc>
+		<loc>https://smartline1.github.io/legacy-site/copyright-disclaimer/</loc>
 		<lastmod>2017-09-04T16:57:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://legacy.smartline.org.uk/research/smart-and-resilient-communities-social-innovation-and-volunteering/</loc>
+		<loc>https://smartline1.github.io/legacy-site/research/smart-and-resilient-communities-social-innovation-and-volunteering/</loc>
 		<lastmod>2017-10-05T13:34:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://legacy.smartline.org.uk/news/</loc>
+		<loc>https://smartline1.github.io/legacy-site/news/</loc>
 		<lastmod>2017-10-05T14:37:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://legacy.smartline.org.uk/research/assessing-the-market-economic-valuation-of-private-and-social-benefits-of-innovation/</loc>
+		<loc>https://smartline1.github.io/legacy-site/research/assessing-the-market-economic-valuation-of-private-and-social-benefits-of-innovation/</loc>
 		<lastmod>2017-10-12T11:25:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://legacy.smartline.org.uk/research/smart-house-health-and-wellbeing/</loc>
+		<loc>https://smartline1.github.io/legacy-site/research/smart-house-health-and-wellbeing/</loc>
 		<lastmod>2017-10-17T08:19:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://legacy.smartline.org.uk/privacy/</loc>
+		<loc>https://smartline1.github.io/legacy-site/privacy/</loc>
 		<lastmod>2018-05-14T14:18:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://legacy.smartline.org.uk/data-protection/</loc>
+		<loc>https://smartline1.github.io/legacy-site/data-protection/</loc>
 		<lastmod>2018-07-13T14:02:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://legacy.smartline.org.uk/advice-and-support-services/</loc>
+		<loc>https://smartline1.github.io/legacy-site/advice-and-support-services/</loc>
 		<lastmod>2018-07-27T13:17:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://legacy.smartline.org.uk/research/innovation-and-e-health-knowledge-exchange-for-business-delivery/</loc>
+		<loc>https://smartline1.github.io/legacy-site/research/innovation-and-e-health-knowledge-exchange-for-business-delivery/</loc>
 		<lastmod>2019-01-17T16:04:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://legacy.smartline.org.uk/funding/</loc>
+		<loc>https://smartline1.github.io/legacy-site/funding/</loc>
 		<lastmod>2019-02-13T12:03:23+00:00</lastmod>
 		<image:image>
-			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2017/10/LogoERDF_Col_Portrait.jpg</image:loc>
+			<image:loc>https://smartline1.github.io/legacy-site/wp-content/uploads/2017/10/LogoERDF_Col_Portrait.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://legacy.smartline.org.uk/wp-content/uploads/2017/10/SWAHSN-logo-landscape-RGB-1.png</image:loc>
+			<image:loc>https://smartline1.github.io/legacy-site/wp-content/uploads/2017/10/SWAHSN-logo-landscape-RGB-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://legacy.smartline.org.uk/research/modelling-of-systems-design-predictive-modelling-from-data/</loc>
+		<loc>https://smartline1.github.io/legacy-site/research/modelling-of-systems-design-predictive-modelling-from-data/</loc>
 		<lastmod>2019-03-21T10:17:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://legacy.smartline.org.uk/contact/</loc>
+		<loc>https://smartline1.github.io/legacy-site/contact/</loc>
 		<lastmod>2019-04-08T14:33:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://legacy.smartline.org.uk/partners/</loc>
+		<loc>https://smartline1.github.io/legacy-site/partners/</loc>
 		<lastmod>2019-04-08T15:02:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://legacy.smartline.org.uk/data/</loc>
+		<loc>https://smartline1.github.io/legacy-site/data/</loc>
 		<lastmod>2019-08-05T16:09:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://legacy.smartline.org.uk/research/</loc>
+		<loc>https://smartline1.github.io/legacy-site/research/</loc>
 		<lastmod>2019-08-13T09:43:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://legacy.smartline.org.uk/case-study/</loc>
+		<loc>https://smartline1.github.io/legacy-site/case-study/</loc>
 		<lastmod>2019-10-18T10:42:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://legacy.smartline.org.uk/participate/</loc>
+		<loc>https://smartline1.github.io/legacy-site/participate/</loc>
 		<lastmod>2020-01-16T13:26:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://legacy.smartline.org.uk/work-with-us/</loc>
+		<loc>https://smartline1.github.io/legacy-site/work-with-us/</loc>
 		<lastmod>2020-02-13T15:52:02+00:00</lastmod>
 	</url>
 </urlset>
